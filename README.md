@@ -8,3 +8,7 @@
 
 ## 版权信息
 Copyright (c) 2026 Chenpiyang All rights reserved.
+
+## 课堂笔记跳转链接
+
+「01-初识C语言」[笔记链接](课堂笔记/01-初识C语言/01-初识C语言.md)
