@@ -1,13 +1,13 @@
 # 「CLangProgramDesign」项目简介
- 本项目为陈皮洋个人内部项目
+ 本项目为陈皮洋个人实践项目，项目更新可能不及时，请见谅。
 
- 项目编号：20264206A01
+ 项目编号：20264206A01（内部自编号）
  
 ## 该项目的依据
 《C语言程序设计》（第二版 主编：张小梅）  ISBN：978-7-200-15907-3
 
 ## 版权信息
-Copyright (c) 2026 Chenpiyang All rights reserved.
+Copyright (c) 2026 Chenpiyang All rights reserved.（软件源码部分、部分解释部分）
 
 ## 课堂笔记跳转链接
 
