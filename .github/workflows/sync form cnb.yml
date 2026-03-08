@@ -4,7 +4,10 @@ name: Sync from CNB
 on:
   schedule:
     - cron: "0 1 * * *" # 每天1点执行
-
+    - cron: "0 12 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 23 * * *"
+    
 jobs:
   sync:
     runs-on: ubuntu-latest
