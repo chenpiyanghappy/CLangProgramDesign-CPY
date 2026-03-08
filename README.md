@@ -32,11 +32,3 @@ Copyright (c) 2026 Chenpiyang All rights reserved.
 CNB项目地址：https://cnb.cool/Chenpiyang_Software_DEV/CLangProgramDesign-CPY
 
 GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
-
-GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
-
-GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
-
-GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
-
-GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
