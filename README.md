@@ -13,9 +13,6 @@
 ## 该项目的依据
 《C语言程序设计》（第二版 主编：张小梅）  ISBN：978-7-200-15907-3
 
-## 版权信息
-Copyright (c) 2026 Chenpiyang All rights reserved.
-
 ## 课堂笔记跳转链接
 
 「01-初识C语言」[笔记链接](课堂笔记/01-初识C语言/01-初识C语言.md)
@@ -25,3 +22,6 @@ Copyright (c) 2026 Chenpiyang All rights reserved.
 （注释：补充内容的更新可能不及时，所涉及到的软件UI页面可能与你所使用的版本不一致，请以实际为准）
 
 「01-初识C语言_补充内容」[笔记链接](课堂笔记/01-初识C语言/01-初识C语言_补充内容.md)
+
+## 版权信息
+Copyright (c) 2026 Chenpiyang All rights reserved.
