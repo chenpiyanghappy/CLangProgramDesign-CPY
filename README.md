@@ -7,7 +7,7 @@
 《C语言程序设计》（第二版 主编：张小梅）  ISBN：978-7-200-15907-3
 
 ## 版权信息
-Copyright (c) 2026 Chenpiyang All rights reserved.、
+Copyright (c) 2026 Chenpiyang All rights reserved.
 
 ## 课堂笔记跳转链接
 
