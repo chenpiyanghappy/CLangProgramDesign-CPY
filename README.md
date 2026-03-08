@@ -30,3 +30,5 @@ Copyright (c) 2026 Chenpiyang All rights reserved.
 为了方便我在国内的cnb平台上面进行操作，用了一些魔法，让他自己同步仓库，所以如果GitHub访问不正常可以试试cnb.cool
 
 CNB项目地址：https://cnb.cool/Chenpiyang_Software_DEV/CLangProgramDesign-CPY
+
+GitHub项目地址：https://github.com/chenpiyanghappy/CLangProgramDesign-CPY
