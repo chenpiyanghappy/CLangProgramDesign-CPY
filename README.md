@@ -4,7 +4,7 @@
 
 This practice project is the personal project of chenpiyang.
 
-项目更新可能不及时，有任何问题可以提Issues或者Pull请求完善所谓的「个人实践项目」，也欢迎大家改善项目内的文档和代码，项目内的 课堂笔记原文件由我的授课教师提供，为了“展示”自己的“实力”对文章进行了部分修改。
+项目更新可能不及时，有任何问题可以提Issues或者Pull请求完善所谓的「个人实践项目」，也欢迎大家改善项目内的文档和代码，项目内的课堂笔记原文件由我的授课教师提供，为了“展示”自己的“实力”对文章进行了部分修改。
 
 所需要的「IDE软件」的快速下载链接可能并不是更新的版本，当然我也可能更新软件版本。
 
@@ -29,7 +29,9 @@ This practice project is the personal project of chenpiyang.
 Copyright (c) 2026 Chenpiyang All rights reserved.
 
 ## 写在最后
-为了方便我在国内的cnb平台上面进行操作，用了一些魔法，让他自己同步仓库，所以如果GitHub访问不正常可以试试cnb.cool
+为了方便使用云原生构建（CNB）进行云原生开发（Web端），在项目原项目代码托管平台GitHub编写部分代码用于同步GitHub到云原生构建（CNB）平台上，目前我所使用的代码开发工具为CLion
+代码更新可能不及时，请耐心等待，或通过相关平台Issues或者Pull请求来完善项目“示例”代码。
+
 
 CNB项目地址：https://cnb.cool/Chenpiyang_Software_DEV/CLangProgramDesign-CPY
 
