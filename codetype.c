@@ -14,8 +14,7 @@ int CodeType() {
     printf("计算符号常量：%c \n",ch);
     return 0;
 }
-int main() {
-    // 必须添加 main 函数
+int main() {    // 必须添加 main 函数
     CodeType();
     return 0;
 }
