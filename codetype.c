@@ -5,7 +5,7 @@ int CodeType() {
     printf("12 \n");
     printf("计算的结果是：%d\n",10+2);
     printf("输出字符%c \n",'a');
-    printf("输出字符串%f \n",1.1);
+    printf("输出浮点数：%f \n",1.1);
     printf("八进制：%o \n",037);
     printf("十六进制%x \n",0x37);
     printf("输出多个常量%d,%d,%d \n",1,2,3);

@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <windows.h>
-#define _CRT_SECURE_NO_WARNINGS
 int test() {
     SetConsoleOutputCP(65001);
     int a = 15;

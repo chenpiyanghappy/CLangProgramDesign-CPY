@@ -1,9 +1,11 @@
 #include <stdio.h>
+#include <windows.h>
 
 int munp() {
+    SetConsoleOutputCP(65001);
     int a =1300;
     int b=14;
-    printf("%d \n",a+b);
+    printf("计算结果：%d \n",a+b);
     return 0;
 }
 int main() {
