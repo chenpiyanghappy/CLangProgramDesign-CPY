@@ -2,16 +2,22 @@
 #include <windows.h>
 int test() {
     SetConsoleOutputCP(65001);
-    int a = 15;
-    int b = 4;
+    int num;
+    int hundreds, tens, ones;
 
-    printf("a = %d, b = %d\n", a, b);
-    printf("a + b = %d\n", a + b);
-    printf("a - b = %d\n", a - b);
-    printf("a * b = %d\n", a * b);
-    printf("a / b = %d\n", a / b);  // 整数除法，结果为 3
-    printf("a %% b = %d\n", a % b); // 取模运算，结果为 3
+    // 获取用户输入
+    printf("请输入一个三位整数: ");
+    scanf("%d", &num);
 
+    // 拆分各位数字
+    hundreds = num / 100;           // 百位
+    tens = (num / 10) % 10;         // 十位
+    ones = num % 10;                // 个位
+
+    // 输出结果
+    printf("百位: %d\n", hundreds);
+    printf("十位: %d\n", tens);
+    printf("个位: %d\n", ones);
     return 0;
 }
 int main() {
