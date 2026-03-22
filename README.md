@@ -35,7 +35,7 @@ This practice project is the personal project of chenpiyang.
 注意！ 在使用CLion过程中可能会发生中文乱码问题 请分别在文件中加入（或观察C文件）
 ```c
 #include <windows.h>
-/* 引用Windows头文件用于处理UTC-8中文字符 */
+/* 引用Windows头文件用于处理UTC-8中文字符*/
 
 SetConsoleOutputCP(65001);
 /* 设置Windows控制台输出编码为中文 */
