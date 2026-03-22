@@ -32,7 +32,7 @@ int calculate_triangle_area() {
     SetConsoleOutputCP(65001); // 设置Windows控制台为UTF-8编码，支持中文（Linux/macOS请移除有关代码）
 
     printf("====================================\n");
-    printf("三角形面积计算器 Triangle Area Calculator  (版权所有 (c) 2026 chenpiyang)\n");
+    printf("三角形面积计算器 Triangle Area Calculator  (Copyright (c) 2026 Chenpiyang All rights reserved. \n");
     printf("====================================\n\n");
 
     // 分别提示输入三条边

@@ -16,5 +16,6 @@ int CodeType() {
 }
 int main() {
     CodeType();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
     return 0;
 }

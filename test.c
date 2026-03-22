@@ -22,4 +22,5 @@ int test() {
 }
 int main() {
     test();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
 }

@@ -19,17 +19,30 @@ This practice project is the personal project of chenpiyang.
 
 「01-初识C语言」[笔记链接](课堂笔记/01-初识C语言/01-初识C语言.md)
 
-（由于教师未提供新的笔记，那就暂时停止更新吧）
+「02-C语言基础」[笔记链接](课堂笔记/02-C语言基础/02-核心语法.md)
+
+
+「03-C语言基础2」[笔记链接](课堂笔记/03-C语言基础2/03-核心语法.md)
+
+
+「04-计算符要点」[笔记链接](课堂笔记/04-计算符要点/04-运算符.md)
 
 ## 对「课堂笔记」的内容存在什么问题？来看看补充内容
 （注释：补充内容的更新可能不及时，所涉及到的软件UI页面可能与你所使用的版本不一致，请以实际为准）
 
 「01-初识C语言_补充内容」[笔记链接](课堂笔记/01-初识C语言/01-初识C语言_补充内容.md)
 
-（由于教师未提供新的笔记，那就暂时停止更新吧）
+注意！ 在使用CLion过程中可能会发生中文乱码问题 请分别在文件中加入（或观察C文件）
+```c
+#include <windows.h>
+/* 引用Windows头文件用于处理UTC-8中文字符 */
+
+SetConsoleOutputCP(65001);
+/* 设置Windows控制台输出编码为中文 */
+```
 
 ## 版权信息
-Copyright (c) 2026 Chenpiyang All rights reserved.
+Copyright (c) 2026 chenpiyang All rights reserved.
 
 ## 写在最后
 在项目原项目代码托管平台GitHub编写部分代码用于同步GitHub到云原生构建（CNB）平台上，目前我所使用的代码开发工具为CLion

@@ -10,4 +10,5 @@ int munp() {
 }
 int main() {
     munp();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
 }

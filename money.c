@@ -6,6 +6,7 @@ int money () {
     int money =10000;
     money = money + 2;
     printf("金额为：%d \n",money);
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
     return 0;
 }
 

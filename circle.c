@@ -8,5 +8,6 @@ int  main() {
     scanf("%f",&r);
     area=PI*r*r;
     printf("圆的面积是：%f \n",area);
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
     return 0;
 }
