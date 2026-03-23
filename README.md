@@ -41,6 +41,8 @@ SetConsoleOutputCP(65001);
 /* 设置Windows控制台输出编码为中文 */
 ```
 
+
+提示：为方便查看，自本次更新后所有文件移动到[此处](C%20Flies)
 ## 版权信息
 Copyright (c) 2026 chenpiyang All rights reserved.
 
