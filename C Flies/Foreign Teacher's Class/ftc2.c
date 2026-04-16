@@ -23,4 +23,5 @@ int ftc2() {
 }
 int main() {
     ftc2();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
 }

@@ -18,4 +18,5 @@ int amc() {
 }
 int main() {
     amc();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
 }

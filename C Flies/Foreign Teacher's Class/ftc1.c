@@ -2,7 +2,7 @@
 #include <windows.h>
 int ftc1 () {
     // 使用 sizeof 获取各类型的大小（字节）
-    SetConsoleOutputCP(65001);
+     SetConsoleOutputCP(65001);
     printf("当前系统下各类型的大小（字节）：\n");
     printf("char        : %zu\n", sizeof(char));
     printf("int         : %zu\n", sizeof(int));
@@ -25,4 +25,5 @@ int ftc1 () {
 }
 int main() {
     ftc1();
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
 }
