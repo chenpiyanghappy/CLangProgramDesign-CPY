@@ -43,5 +43,5 @@ int ftc4() {
 }
 int main() {
     ftc4();
-    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");
+    printf("Copyright (c) 2026 Chenpiyang All rights reserved. \n");-
 }
